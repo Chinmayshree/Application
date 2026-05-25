@@ -1,1 +1,1 @@
-# Application Working on assigned updated1 user Story2 by developerB
+# Application Working on new updated assigned user Story1 by developerB
